@@ -20,6 +20,11 @@
         "label": "Nultramarine",
         "uiTheme": "vs-dark",
         "path": "./themes/Nultramarine-color-theme.json"
+      },
+      {
+        "label": "Nultramarine Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nultramarine-Alt-color-theme.json"
       }
     ]
   }
