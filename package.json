@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nultramarine",
+        "label": "Nultramarine Regular",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nultramarine-color-theme.json"
+        "path": "./themes/Nultramarine-Regular-color-theme.json"
       },
       {
         "label": "Nultramarine Alt",
