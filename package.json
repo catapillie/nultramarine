@@ -3,6 +3,10 @@
   "displayName": "Nultramarine",
   "description": "... not an ultramarine theme.",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catapillie/nultramarine/tree/master"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
